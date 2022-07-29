@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/auditbenchmark-docker.jar
+    - target/authorization-docker.jar
   discard-paths: yes
